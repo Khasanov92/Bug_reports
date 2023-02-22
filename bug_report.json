@@ -1,4 +1,4 @@
-#!Bug_reports
+{#!Bug_reports}
 { "Envoirements": "Windows 10 22H2",
  "Title": "При проверке окно регистрации через @mail, кнопка (регистрация) не кликабельна",
  "Steps":
